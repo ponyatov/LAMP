@@ -1,0 +1,2 @@
+# LAMP
+Language-Agnostic MetaProgramming
